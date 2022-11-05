@@ -15,4 +15,4 @@
     - HTTP
     - Stream
 
-High five :hands:
+High five :raised_hands:
